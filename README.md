@@ -66,3 +66,5 @@
   <p><b>By VexCrux</b></p>
 
 </div>
+print("README_VexCrux_Profile.md saved successfully!")
+print(f"Total characters: {len(readme)}")
