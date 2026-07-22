@@ -4,7 +4,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/NOTHING-Privacy_Extension-0138b7?style=plastic" alt="NOTHING">
-    <img src="https://img.shields.io/badge/ClaudeMeter-Token_Tracker-C96442?style=plastic" alt="ClaudeMeter">
+    <img src="https://img.shields.io/badge/ClaudeMeter-Tracker-C96442?style=plastic" alt="ClaudeMeter">
   </p>
 
 </div>
