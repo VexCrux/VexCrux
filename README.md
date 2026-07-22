@@ -23,6 +23,4 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5372e0,50:3d53d7,100:0138b7&height=120&section=footer" alt="Footer">
 
-  <p><b>By VexCrux</b></p>
-
 </div>
