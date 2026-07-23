@@ -32,8 +32,6 @@
   <!-- Серия коммитов -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VexCrux&theme=tokyonight&hide_border=true&background=0d1117&stroke=5372e0&ring=3d53d7&fire=C96442&currStreakLabel=b8ceff&border_radius=10" alt="Streak Stats" height="150">
 
-  <br><br>
-
   <!-- Анимированный футер -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5372e0,50:3d53d7,100:0138b7&height=100&section=footer" alt="Footer">
 
